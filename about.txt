@@ -1,2 +1,1 @@
-﻿Fun fact: “I had a goldfish”
-Funnier fact: "My mother said I was allergic to dogs. I wasn't"
+﻿I cloned your repository and I added a file name called "feras" stating why I enrolled in this data analytics course at IronHack. I also deleted the previous content of your about.txt files and wrote this.

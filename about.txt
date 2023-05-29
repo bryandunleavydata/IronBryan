@@ -1,1 +1,1 @@
-Test delete and merge
+Second attempt at deletion and merge. 

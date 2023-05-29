@@ -1,3 +1,3 @@
-I cloned your repository and I added a file name called "feras" stating why I enrolled in this data analytics course at IronHack. I also deleted the previous content of your about.txt files and wrote this.
+I cloned your repository and I added a file name called "feras" stating why I enrolled in this data analytics course at IronHack. I also deleted the previous content of your about.txt files, I changed the content. 
 
-I cloned the repository and added my contributions
+I also cloned the repository and added my contributions, I will commit and push changes now.

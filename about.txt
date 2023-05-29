@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Second attempt at deletion and merge. 
+=======
+just seeing what's up
+>>>>>>> 097edcb44e1a690b7c589a630e064dff34199791
